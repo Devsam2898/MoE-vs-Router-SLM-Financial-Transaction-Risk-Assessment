@@ -1,0 +1,53 @@
+# FastAPI Backend Dependencies
+modal==1.0.2
+
+# Web framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+
+# HTTP client
+requests==2.31.0
+
+# ML / Model loading
+torch>=2.6.0
+accelerate>=0.36.0
+
+# Qwen-3 support (MUST be from source)
+transformers>=4.51.0
+
+# Optional inference optimization (safe)
+optimum==1.16.1
+
+# Utilities
+python-dotenv==1.0.0
+
+# Optional: For 4-bit quantization (saves memory)
+bitsandbytes==0.49.1
+
+openai==1.58.1
+
+# # FastAPI Backend Dependencies
+# modal == 1.0.2
+
+# # Web framework
+# fastapi==0.109.0
+# uvicorn[standard]==0.27.0
+# pydantic==2.5.3
+
+# # HTTP client
+# requests==2.31.0
+
+# # ML / Model loading
+# torch==2.5.1
+# transformers==4.48.3
+# accelerate==0.25.0
+
+# # Optional: For 4-bit quantization (saves memory)
+# bitsandbytes==0.45.0
+
+# # Optional: For faster inference
+# optimum==1.16.1
+
+# # Utilities
+# python-dotenv==1.0.0

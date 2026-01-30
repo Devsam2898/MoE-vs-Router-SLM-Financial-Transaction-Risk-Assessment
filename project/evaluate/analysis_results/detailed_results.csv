@@ -1,0 +1,151 @@
+experiment_id,category,query,sys_a_latency,sys_a_tokens,sys_b_latency,sys_b_route,sys_b_tokens
+4e05acea,category_2,"What if the transaction amount was $6,152 instead of $14,651? Would your risk assessment change significantly?",2141.15,530,37516.4,transaction_risk,512
+7880ad3d,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,6218.08,486,14000.99,governance,191
+b98c72fd,category_4,"Is this $14,651 Online Shopping transaction suspicious? Also, what's the current global fraud rate in this category?",5368.46,605,12243.37,mixed_intent,167
+32b313f3,category_9,Assess the risk and also explain how machine learning models typically detect fraud in real-time.,5113.74,598,23042.81,mixed_intent,315
+8351baa8,category_5,"Hey, this transaction seems off. What's your take on the risk here?",2658.21,539,16238.12,transaction_risk,223
+b4c6c188,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,2367.42,579,28911.93,governance,396
+788c57c2,category_9,"What are the top 3 fraud prevention strategies used by Indian banks, and does this transaction fit any fraud patterns?",2426.92,596,30209.21,transaction_risk,411
+ccbb7059,category_2,"Identify the minimum change in transaction attributes that would reduce the assessed risk level, and explain why.",2326.22,599,16797.08,transaction_risk,227
+2032a579,category_3,Evaluate this Pharmacy purchase for fraud risk and recommend if we should report this to the Financial Crimes Enforcement Network.,2677.88,543,20486.8,transaction_risk,278
+9aec56b8,category_1,"Given the transaction details and the user's historical behavior, assess whether this transaction poses elevated risk and justify your conclusion using at least two independent factors.",1982.81,494,21643.52,transaction_risk,294
+46db27f0,category_5,"Hey, this transaction seems off. What's your take on the risk here?",1906.92,481,12627.67,transaction_risk,170
+b4221186,category_4,"Is this $11,458 Utilities transaction suspicious? Also, what's the current global fraud rate in this category?",2533.71,585,11735.43,mixed_intent,159
+9caf4b72,category_2,"If the same transaction occurred after 36 months of account history instead of 5 months, how would your assessment change?",2383.01,604,27682.61,transaction_risk,375
+c2bd35b1,category_5,"Hey, this transaction seems off. What's your take on the risk here?",1604.14,402,10560.17,transaction_risk,141
+736c358d,category_1,"Analyze this Electronics transaction for risk. Consider the amount ($41,971) relative to the user's average ($2,257) and the account age (5 months).",1825.08,444,9145.37,transaction_risk,123
+beff10cc,category_5,This doesn't look normal compared to past behavior — should I worry?,2677.58,502,37929.5,transaction_risk,511
+6640489f,category_4,Evaluate the transaction risk and write a short explanation suitable for a non-technical customer.,1032.12,287,9736.6,transaction_risk,132
+eacc0c0c,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,2159.69,552,19048.38,governance,258
+a354d443,category_4,"Is this $15,470 Clothing transaction suspicious? Also, what's the current global fraud rate in this category?",1997.14,514,12939.07,mixed_intent,173
+a6b8aabb,category_9,Assess the risk and also explain how machine learning models typically detect fraud in real-time.,3142.34,597,12036.41,mixed_intent,158
+b6b71d4b,category_1,"The transaction amount is $15,470, but the merchant category is Clothing. Explain whether the transaction should still be flagged and why.",2362.75,490,16807.91,transaction_risk,223
+28e4d9e6,category_4,"Is this $5,430 Utilities transaction suspicious? Also, what's the current global fraud rate in this category?",2328.82,603,22333.4,mixed_intent,293
+d72c35be,category_2,"Identify the minimum change in transaction attributes that would reduce the assessed risk level, and explain why.",2874.48,581,22152.66,transaction_risk,292
+c14978e3,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,1960.45,466,11189.63,governance,147
+b2ffd2db,category_2,"If the same transaction occurred after 36 months of account history instead of 5 months, how would your assessment change?",2575.94,605,15856.55,transaction_risk,210
+84a528eb,category_4,Evaluate the transaction risk and write a short explanation suitable for a non-technical customer.,975.06,289,6613.82,transaction_risk,87
+8fa26f9a,category_9,Assess the risk and also explain how machine learning models typically detect fraud in real-time.,2526.06,598,20564.61,mixed_intent,271
+7160912b,category_1,"Analyze this Pharmacy transaction for risk. Consider the amount ($7,477) relative to the user's average ($9,517) and the account age (27 months).",2348.91,614,10347.76,transaction_risk,136
+668601e2,category_4,Evaluate the transaction risk and write a short explanation suitable for a non-technical customer.,1072.05,249,7482.26,transaction_risk,96
+825b9bfc,category_5,"Given the deviation from baseline expenditure, determine if escalation is warranted.",2480.94,585,16047.68,transaction_risk,213
+d87b3d8a,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,2578.24,598,14420.36,governance,191
+9ed4d46e,category_5,"Given the deviation from baseline expenditure, determine if escalation is warranted.",2231.76,504,13251.38,transaction_risk,175
+bf8f7197,category_2,"Identify the minimum change in transaction attributes that would reduce the assessed risk level, and explain why.",2813.04,595,20073.04,transaction_risk,267
+02cce833,category_1,"Analyze this Pharmacy transaction for risk. Consider the amount ($6,594) relative to the user's average ($7,930) and the account age (44 months).",2517.61,531,20468.47,transaction_risk,269
+95a5abca,category_4,"Is this $6,594 Pharmacy transaction suspicious? Also, what's the current global fraud rate in this category?",2577.94,603,13258.37,mixed_intent,175
+5f5f9e02,category_5,"Given the deviation from baseline expenditure, determine if escalation is warranted.",3798.25,556,11760.47,transaction_risk,156
+9908274f,category_2,"What if the transaction amount was $13,762 instead of $12,231? Would your risk assessment change significantly?",3125.2,604,21146.77,transaction_risk,280
+7a451519,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,1998.98,526,11973.95,governance,158
+b2318fbc,category_4,Evaluate the transaction risk and write a short explanation suitable for a non-technical customer.,881.96,258,12651.75,transaction_risk,166
+d1b423ff,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,2258.09,549,8800.37,governance,116
+0ca25847,category_1,"The transaction amount is $7,081, but the merchant category is Pharmacy. Explain whether the transaction should still be flagged and why.",1926.54,521,9651.87,transaction_risk,127
+2f62b61d,category_4,Evaluate the transaction risk and write a short explanation suitable for a non-technical customer.,902.27,259,7150.33,transaction_risk,94
+4153d320,category_4,"Is this $19,712 Online Shopping transaction suspicious? Also, what's the current global fraud rate in this category?",2451.02,605,10989.19,mixed_intent,145
+27333b7e,category_9,This transaction looks risky — summarize the global rise in financial fraud over the last decade.,2477.18,598,30597.51,transaction_risk,411
+46a270c6,category_5,"Given the deviation from baseline expenditure, determine if escalation is warranted.",3147.88,541,13944.06,transaction_risk,184
+054294e7,category_9,This transaction looks risky — summarize the global rise in financial fraud over the last decade.,2303.7,598,38241.29,transaction_risk,512
+43a832d8,category_3,Assess the transaction risk and suggest whether the user's financial habits indicate poor money management.,2590.28,505,10506.13,transaction_risk,139
+33141459,category_1,"Given the transaction details and the user's historical behavior, assess whether this transaction poses elevated risk and justify your conclusion using at least two independent factors.",1526.03,430,17833.53,transaction_risk,238
+ab18d716,category_9,"What are the top 3 fraud prevention strategies used by Indian banks, and does this transaction fit any fraud patterns?",2256.0,587,9686.94,transaction_risk,130
+ed8e4134,category_1,"Given the transaction details and the user's historical behavior, assess whether this transaction poses elevated risk and justify your conclusion using at least two independent factors.",1550.0,422,19242.97,transaction_risk,256
+13e1947c,category_5,"Hey, this transaction seems off. What's your take on the risk here?",1605.11,434,18107.48,transaction_risk,241
+43a1ce91,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,2320.56,494,11838.05,governance,156
+cdf6bfe1,category_5,"Given the deviation from baseline expenditure, determine if escalation is warranted.",2117.54,550,13424.17,transaction_risk,176
+d22f8940,category_2,"If the same transaction occurred after 36 months of account history instead of 12 months, how would your assessment change?",2748.69,604,37616.7,transaction_risk,494
+5ac3bf54,category_4,Evaluate the transaction risk and write a short explanation suitable for a non-technical customer.,871.53,249,7211.42,transaction_risk,95
+d716673c,category_9,"What are the top 3 fraud prevention strategies used by Indian banks, and does this transaction fit any fraud patterns?",2372.97,604,9168.38,transaction_risk,121
+749bc980,category_1,"The transaction amount is $3,084, but the merchant category is Grocery. Explain whether the transaction should still be flagged and why.",2346.54,609,11165.24,transaction_risk,145
+c690958b,category_9,Assess the risk and also explain how machine learning models typically detect fraud in real-time.,2201.72,598,14255.45,mixed_intent,188
+ae42703b,category_2,"What if the transaction amount was $5,432 instead of $5,986? Would your risk assessment change significantly?",1747.98,491,18717.94,transaction_risk,246
+9f913b02,category_4,Evaluate the transaction risk and write a short explanation suitable for a non-technical customer.,833.87,264,11473.15,transaction_risk,149
+f70fe79e,category_4,Explain why this transaction is risky and also tell me if similar cases increased after demonetization.,2473.05,582,13393.91,mixed_intent,176
+57335905,category_2,"Identify the minimum change in transaction attributes that would reduce the assessed risk level, and explain why.",2485.31,600,21858.02,transaction_risk,286
+7ef10b15,category_5,"Hey, this transaction seems off. What's your take on the risk here?",2081.05,443,8883.34,transaction_risk,116
+d8febae2,category_9,"What are the top 3 fraud prevention strategies used by Indian banks, and does this transaction fit any fraud patterns?",2092.17,503,35492.13,transaction_risk,465
+f257ab74,category_1,"Analyze this Grocery transaction for risk. Consider the amount ($4,024) relative to the user's average ($3,489) and the account age (21 months).",2403.98,616,15945.43,transaction_risk,209
+04cdd025,category_2,"Identify the minimum change in transaction attributes that would reduce the assessed risk level, and explain why.",2322.5,600,12132.44,transaction_risk,159
+112dc8d4,category_2,"If the same transaction occurred after 36 months of account history instead of 11 months, how would your assessment change?",2451.13,604,14904.17,transaction_risk,195
+8a48a872,category_9,"What are the top 3 fraud prevention strategies used by Indian banks, and does this transaction fit any fraud patterns?",2193.69,545,35609.23,transaction_risk,461
+6210181a,category_5,This doesn't look normal compared to past behavior — should I worry?,2366.52,573,23442.41,transaction_risk,305
+624e4715,category_2,"What if the transaction amount was $7,532 instead of $21,547? Would your risk assessment change significantly?",2122.77,502,38863.99,transaction_risk,512
+721a8865,category_1,"The transaction amount is $21,547, but the merchant category is Restaurant. Explain whether the transaction should still be flagged and why.",1995.69,558,17861.0,transaction_risk,235
+ea65d401,category_4,"Is this $21,547 Restaurant transaction suspicious? Also, what's the current global fraud rate in this category?",2912.88,603,14491.89,mixed_intent,192
+5ac868a8,category_1,"Analyze this Entertainment transaction for risk. Consider the amount ($14,140) relative to the user's average ($7,002) and the account age (12 months).",1863.66,457,12056.54,transaction_risk,157
+aa543913,category_5,This doesn't look normal compared to past behavior — should I worry?,2313.33,528,9632.12,transaction_risk,127
+66fd4afa,category_2,"Identify the minimum change in transaction attributes that would reduce the assessed risk level, and explain why.",2859.19,599,23626.49,transaction_risk,313
+cb2fe973,category_1,"The transaction amount is $4,894, but the merchant category is Grocery. Explain whether the transaction should still be flagged and why.",2103.15,582,18610.84,transaction_risk,245
+92a00109,category_5,"Hey, this transaction seems off. What's your take on the risk here?",2300.69,550,12471.92,transaction_risk,165
+03f69246,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,2341.52,587,9242.38,governance,122
+79f6ded6,category_1,"The transaction amount is $106,675, but the merchant category is Electronics. Explain whether the transaction should still be flagged and why.",2662.91,607,9185.95,transaction_risk,121
+011bf165,category_5,"Given the deviation from baseline expenditure, determine if escalation is warranted.",1970.5,475,8013.2,transaction_risk,105
+c264a03f,category_4,Evaluate the transaction risk and write a short explanation suitable for a non-technical customer.,943.51,253,7741.39,transaction_risk,102
+b3522b35,category_5,"Hey, this transaction seems off. What's your take on the risk here?",2251.1,525,38595.56,transaction_risk,512
+1e71971b,category_1,"Given the transaction details and the user's historical behavior, assess whether this transaction poses elevated risk and justify your conclusion using at least two independent factors.",1848.32,466,16063.01,transaction_risk,213
+6f3fcec7,category_3,Assess the transaction risk and suggest whether the user's financial habits indicate poor money management.,2572.47,598,38852.18,transaction_risk,512
+bb2303a8,category_2,"What if the transaction amount was $2,058 instead of $22,041? Would your risk assessment change significantly?",1924.3,509,38885.36,transaction_risk,512
+8dc5b323,category_4,Evaluate the transaction risk and write a short explanation suitable for a non-technical customer.,1026.33,283,8071.98,transaction_risk,107
+3121f206,category_1,"Given the transaction details and the user's historical behavior, assess whether this transaction poses elevated risk and justify your conclusion using at least two independent factors.",1712.16,395,14213.43,transaction_risk,190
+f7e4ac41,category_5,"Given the deviation from baseline expenditure, determine if escalation is warranted.",1911.75,447,19873.82,transaction_risk,265
+8816e3f7,category_3,Evaluate this Restaurant purchase for fraud risk and recommend if we should report this to the Financial Crimes Enforcement Network.,2442.26,601,33218.91,transaction_risk,444
+5d77e1c7,category_4,Explain why this transaction is risky and also tell me if similar cases increased after demonetization.,2455.62,599,14114.42,mixed_intent,188
+bd394e8d,category_1,"The transaction amount is $14,903, but the merchant category is Pharmacy. Explain whether the transaction should still be flagged and why.",3909.89,599,10504.39,transaction_risk,140
+f76cda0a,category_5,"Given the deviation from baseline expenditure, determine if escalation is warranted.",4632.07,547,13122.28,transaction_risk,175
+7f0f4c4a,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,5167.58,597,11725.81,governance,156
+01f1b9eb,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,2708.3,598,10254.99,governance,136
+fd48db1e,category_4,"Is this $9,673 Gas Station transaction suspicious? Also, what's the current global fraud rate in this category?",2305.99,605,11431.27,mixed_intent,152
+034c7fe3,category_9,Assess the risk and also explain how machine learning models typically detect fraud in real-time.,2564.42,598,23360.23,mixed_intent,312
+1084cd03,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,2858.29,497,16769.23,governance,223
+8268e723,category_9,"What are the top 3 fraud prevention strategies used by Indian banks, and does this transaction fit any fraud patterns?",2792.65,595,13121.45,transaction_risk,171
+bfb33a05,category_5,"Hey, this transaction seems off. What's your take on the risk here?",1811.09,472,11606.13,transaction_risk,154
+133a0e60,category_1,"Analyze this Grocery transaction for risk. Consider the amount ($7,774) relative to the user's average ($6,557) and the account age (60 months).",2985.69,543,18566.86,transaction_risk,247
+0da1eeb2,category_4,Evaluate the transaction risk and write a short explanation suitable for a non-technical customer.,1498.99,314,14504.34,transaction_risk,194
+086be83e,category_2,"Identify the minimum change in transaction attributes that would reduce the assessed risk level, and explain why.",3131.51,600,20440.83,transaction_risk,271
+5fc70f07,category_3,Evaluate this Gas Station purchase for fraud risk and recommend if we should report this to the Financial Crimes Enforcement Network.,2775.52,596,10642.2,transaction_risk,140
+2222296b,category_1,"The transaction amount is $9,566, but the merchant category is Gas Station. Explain whether the transaction should still be flagged and why.",2376.23,609,9364.26,transaction_risk,124
+1b8f2f9f,category_2,"What if the transaction amount was $12,476 instead of $9,566? Would your risk assessment change significantly?",2749.34,605,38812.14,transaction_risk,512
+a3922067,category_9,Assess the risk and also explain how machine learning models typically detect fraud in real-time.,2186.15,597,15399.16,mixed_intent,203
+ef05db20,category_1,"The transaction amount is $84,038, but the merchant category is Electronics. Explain whether the transaction should still be flagged and why.",2022.47,540,17009.11,transaction_risk,225
+f2cdf38c,category_5,This doesn't look normal compared to past behavior — should I worry?,1709.31,408,21748.78,transaction_risk,287
+fbd9388f,category_2,"Identify the minimum change in transaction attributes that would reduce the assessed risk level, and explain why.",2578.61,558,18765.63,transaction_risk,245
+f1f54a11,category_1,"Given the transaction details and the user's historical behavior, assess whether this transaction poses elevated risk and justify your conclusion using at least two independent factors.",2199.25,534,14698.82,transaction_risk,189
+d5a317bd,category_4,Explain why this transaction is risky and also tell me if similar cases increased after demonetization.,2467.36,599,14231.36,mixed_intent,186
+82a64b8a,category_3,Assess the transaction risk and suggest whether the user's financial habits indicate poor money management.,2213.21,598,20516.04,transaction_risk,271
+9899c40e,category_9,"What are the top 3 fraud prevention strategies used by Indian banks, and does this transaction fit any fraud patterns?",2342.92,572,24578.43,transaction_risk,325
+7db40360,category_1,"Analyze this Gas Station transaction for risk. Consider the amount ($5,163) relative to the user's average ($4,615) and the account age (29 months).",2172.17,531,15459.3,transaction_risk,203
+442cf3a4,category_3,Assess the transaction risk and suggest whether the user's financial habits indicate poor money management.,2367.68,597,21753.69,transaction_risk,283
+631ce82c,category_2,"What if the transaction amount was $3,701 instead of $10,110? Would your risk assessment change significantly?",2401.47,604,14843.8,transaction_risk,196
+b3434f1e,category_5,"Hey, this transaction seems off. What's your take on the risk here?",1893.19,516,9747.53,transaction_risk,128
+2a8d7130,category_3,Assess the transaction risk and suggest whether the user's financial habits indicate poor money management.,2392.71,598,13357.76,transaction_risk,175
+2150ae96,category_9,"What are the top 3 fraud prevention strategies used by Indian banks, and does this transaction fit any fraud patterns?",2555.94,563,24588.24,transaction_risk,321
+21e77922,category_2,"If the same transaction occurred after 36 months of account history instead of 4 months, how would your assessment change?",2382.2,605,27853.33,transaction_risk,364
+eb3c902b,category_3,Assess the transaction risk and suggest whether the user's financial habits indicate poor money management.,2161.81,546,8996.15,transaction_risk,119
+f16b588d,category_1,"The transaction amount is $13,853, but the merchant category is Pharmacy. Explain whether the transaction should still be flagged and why.",2618.92,607,23585.21,transaction_risk,309
+7bfdabae,category_9,"What are the top 3 fraud prevention strategies used by Indian banks, and does this transaction fit any fraud patterns?",3266.79,603,22558.93,transaction_risk,298
+cc34945f,category_9,Assess the risk and also explain how machine learning models typically detect fraud in real-time.,2281.07,597,19775.4,mixed_intent,260
+9b4f1f77,category_2,"Identify the minimum change in transaction attributes that would reduce the assessed risk level, and explain why.",2288.38,599,18377.94,transaction_risk,240
+55b0cc4b,category_5,"Given the deviation from baseline expenditure, determine if escalation is warranted.",2177.5,535,20774.13,transaction_risk,273
+b985f8a9,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,2289.73,428,10504.53,governance,137
+ce640b48,category_4,"Is this $8,938 Entertainment transaction suspicious? Also, what's the current global fraud rate in this category?",2369.85,593,12960.05,mixed_intent,171
+9192c500,category_9,"What are the top 3 fraud prevention strategies used by Indian banks, and does this transaction fit any fraud patterns?",3257.25,572,22224.43,transaction_risk,293
+3d0aedcd,category_3,Assess the transaction risk and suggest whether the user's financial habits indicate poor money management.,2442.33,597,18880.88,transaction_risk,247
+aba89ca0,category_5,"Given the deviation from baseline expenditure, determine if escalation is warranted.",2756.21,579,19223.71,transaction_risk,253
+ee8755a3,category_1,"Given the transaction details and the user's historical behavior, assess whether this transaction poses elevated risk and justify your conclusion using at least two independent factors.",1631.39,436,8840.15,transaction_risk,115
+fbd65d22,category_1,"The transaction amount is $10,045, but the merchant category is Pharmacy. Explain whether the transaction should still be flagged and why.",2351.07,504,21027.67,transaction_risk,276
+61465c8c,category_9,"What are the top 3 fraud prevention strategies used by Indian banks, and does this transaction fit any fraud patterns?",2591.77,603,39163.21,transaction_risk,512
+caa37d3b,category_2,"Identify the minimum change in transaction attributes that would reduce the assessed risk level, and explain why.",2363.18,588,25850.26,transaction_risk,337
+0d5392f6,category_3,Evaluate this Entertainment purchase for fraud risk and recommend if we should report this to the Financial Crimes Enforcement Network.,2165.43,536,9869.49,transaction_risk,128
+9fd5c737,category_9,This transaction looks risky — summarize the global rise in financial fraud over the last decade.,2603.96,597,22250.79,transaction_risk,289
+f7fed18b,category_2,"What if the transaction amount was $3,938 instead of $10,560? Would your risk assessment change significantly?",1901.6,496,20552.48,transaction_risk,269
+096558d0,category_4,"Is this $6,234 Gas Station transaction suspicious? Also, what's the current global fraud rate in this category?",2113.7,583,16335.72,mixed_intent,214
+533e1286,category_3,Explain the transaction risk and briefly comment on whether this aligns with RBI fraud prevention guidelines.,2020.63,502,13279.73,governance,172
+523a6d15,category_5,This doesn't look normal compared to past behavior — should I worry?,2777.32,595,7055.58,transaction_risk,91
+92027e9a,category_9,"What are the top 3 fraud prevention strategies used by Indian banks, and does this transaction fit any fraud patterns?",1993.34,563,32443.63,transaction_risk,419
+ee1542d9,category_5,"Hey, this transaction seems off. What's your take on the risk here?",1948.36,479,18962.27,transaction_risk,242
+f90ba2cf,category_3,Assess the transaction risk and suggest whether the user's financial habits indicate poor money management.,2867.36,598,16329.18,transaction_risk,210
+a0b58d4a,category_9,This transaction looks risky — summarize the global rise in financial fraud over the last decade.,2190.28,597,28758.3,transaction_risk,374
+12cc8e53,category_5,"Hey, this transaction seems off. What's your take on the risk here?",2128.2,543,24785.95,transaction_risk,325
+cbbad603,category_4,Explain why this transaction is risky and also tell me if similar cases increased after demonetization.,2336.09,586,27326.88,mixed_intent,359
+507c57ff,category_9,This transaction looks risky — summarize the global rise in financial fraud over the last decade.,2801.69,597,22171.92,transaction_risk,291
+4fb32d0c,category_1,"Analyze this Utilities transaction for risk. Consider the amount ($7,092) relative to the user's average ($5,814) and the account age (29 months).",2276.8,614,17958.89,transaction_risk,237
+e9f59726,category_2,"What if the transaction amount was $5,814 instead of $7,092? Would your risk assessment change significantly?",2037.42,532,37570.26,transaction_risk,494

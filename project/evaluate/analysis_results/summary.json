@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "total_experiments": 150,
+    "timestamp": "2026-01-30T15:45:42.968010"
+  },
+  "latency": {
+    "system_a_mean_ms": 2371.278,
+    "system_b_mean_ms": 18033.82013333333,
+    "system_a_median_ms": 2338.8050000000003,
+    "system_b_median_ms": 16055.345000000001,
+    "system_a_p95_ms": 3262.497,
+    "system_b_p95_ms": 37788.73999999999
+  },
+  "routing": {
+    "distribution": {
+      "transaction_risk": 115,
+      "mixed_intent": 21,
+      "governance": 14
+    },
+    "normal_processing_pct": 76.66666666666667,
+    "special_handling_pct": 23.333333333333332
+  },
+  "tokens": {
+    "system_a_total": 80294,
+    "system_b_total": 35755,
+    "system_a_avg": 535.2933333333333,
+    "system_b_avg": 238.36666666666667,
+    "efficiency_ratio": 2.2456719339952453
+  },
+  "reliability": {
+    "system_a_errors": 0,
+    "system_b_errors": 0,
+    "system_a_success_rate_pct": 100.0,
+    "system_b_success_rate_pct": 100.0
+  }
+}
