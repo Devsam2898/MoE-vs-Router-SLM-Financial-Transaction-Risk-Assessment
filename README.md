@@ -2,7 +2,7 @@
 
 **A controlled experiment comparing DeepSeek V3 (MoE) vs Qwen3-Finance-8B + Router for transaction risk assessment**
 
-📄 **Full Article:** [Link to Medium article]
+📄 **Full Article:** [[Link to Medium article](https://medium.com/@storyteller-dev/dont-ask-your-model-to-learn-boundaries-but-build-them-into-your-system-70822a2cf6db?sk=f93e9b960929f83f4ab08cb03d8a399a)]
 
 ---
 
