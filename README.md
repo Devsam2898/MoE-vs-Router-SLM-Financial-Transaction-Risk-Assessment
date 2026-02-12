@@ -451,4 +451,4 @@ It helps others discover this research and supports open science.
 
 **For:** Fintech AI • Regulated Domains • Responsible AI
 
-**Read more:** [Full article on Medium](article-link)
+**Read more:** [Full article on Medium]([article-link](https://medium.com/@storyteller-dev/dont-ask-your-model-to-learn-boundaries-but-build-them-into-your-system-70822a2cf6db?sk=f93e9b960929f83f4ab08cb03d8a399a))
