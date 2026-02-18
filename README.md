@@ -383,12 +383,11 @@ System B: [Conservative mode: focuses only on transaction data]
 If you use this work, please cite:
 
 ```bibtex
-@article{your_name_2025_fintech_routing,
+@article{Devavrat_Samak_2026_fintech_routing,
   title={Why Fintech AI Needs System-Level Routing Over MoE Intelligence},
   author={Devavrat Samak},
-  journal={Towards AI},
   year={2026},
-  url={[Article URL]}
+  url={[https://medium.com/@storyteller-dev/dont-ask-your-model-to-learn-boundaries-but-build-them-into-your-system-70822a2cf6db?sk=f93e9b960929f83f4ab08cb03d8a399a]}
 }
 ```
 
